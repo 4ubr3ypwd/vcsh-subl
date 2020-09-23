@@ -203,7 +203,7 @@
 	"matching_scope": "invalid",
 	"mini_diff": false,
 	"native_tabs": "preferred",
-	"open_files_in_new_window": false,
+	"open_files_in_new_window": true,
 	"ours_gutter": true,
 	"overlay_scroll_bars": "enabled",
 	"predawn_findreplace_small": true,
