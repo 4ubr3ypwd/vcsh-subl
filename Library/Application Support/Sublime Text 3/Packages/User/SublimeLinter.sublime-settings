@@ -1,6 +1,6 @@
 {
-    "debug": false,
-    "delay": 0.25,
+    "debug": true,
+    "delay": 0,
     "lint_mode": "background",
     "linters": {
         "eslint": {
