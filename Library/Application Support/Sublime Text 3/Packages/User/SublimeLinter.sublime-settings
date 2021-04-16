@@ -4,31 +4,33 @@
     "lint_mode": "background",
     "linters": {
         "eslint": {
+            "working_dir": "${file_path}",
             "disable": false,
             "args": [
             ],
             "excludes": [],
         },
         "phpcs": {
+            "working_dir": "${file_path}",
             "disable": false,
             "args": [
             ],
             "excludes": []
         },
         "sass": {
+            "working_dir": "${file_path}",
             "disable": false,
             "args": [
             ],
             "excludes": [],
         },
         "stylelint": {
+            "working_dir": "${file_path}",
             "disable": false,
             "args": [
             ],
             "excludes": [],
         },
-
-        // Others ================
         "json": {
             "disable": false,
             "args": [],
@@ -58,11 +60,10 @@
     "paths": {
         "linux": [],
         "osx": [
-            "/Users/aubreypwd/.nvm/versions/node/v10.22.1/bin/node"
         ],
         "windows": []
     },
-    "show_marks_in_minimap": true,
+    "show_marks_in_minimap": false,
     "syntax_map": {
         "html (django)": "html",
         "html (rails)": "html",
