@@ -116,7 +116,7 @@
 	"folder_exclude_patterns":
 	[
 	],
-	"font_face": "SF Mono",
+	"font_face": "Menlo",
 	"font_options":
 	[
 		"no_bold",
@@ -186,7 +186,7 @@
 	"index_files": true,
 	"index_workers": -1,
 	"line_padding_bottom": -1,
-	"line_padding_top": 0,
+	"line_padding_top": -1,
 	"live_matching": true,
 	"margin": 2,
 	"match_brackets_angle": true,
