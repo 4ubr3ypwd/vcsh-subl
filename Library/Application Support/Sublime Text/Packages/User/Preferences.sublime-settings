@@ -44,6 +44,8 @@
 		"excersize"
 	],
 	"always_prompt_for_file_reload": false,
+	"show_syntax": true,
+	"hardware_acceleration": "none",
 	"always_show_minimap_viewport": false,
 	"ancestor_gutter": true,
 	"gutter": true,
@@ -179,7 +181,6 @@
 		80
 	],
 	"scroll_past_end": true,
-	"scroll_speed": 0,
 	"shift_tab_unindent": true,
 	"show_definitions": false,
 	"show_navigation_bar": false,
