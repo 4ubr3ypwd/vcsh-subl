@@ -165,7 +165,7 @@
 		"gruvbox 2",
 		"Markdown",
 		"MonokaiFree",
-		"Vintage"
+		"Vintage",
 	],
 	"ignored_words":
 	[
@@ -245,5 +245,5 @@
 	"update_check": false,
 	"use_simple_full_screen": true,
 	"use_tab_stops": true,
-	"word_wrap": false
+	"word_wrap": false,
 }
